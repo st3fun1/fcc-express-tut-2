@@ -1,0 +1,17 @@
+{
+  "name": "fcc-express-tut-2",
+  "version": "1.0.0",
+  "description": "Express.js Tutorials from FCC",
+  "main": "express3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "jade": "^1.11.0",
+    "stylus": "^0.54.5"
+  }
+}
